@@ -5,14 +5,16 @@ The code in this repository shows an example of maximum likelihood estimation fo
 
 ```
 ├── contextual-bandit
-│   	ReadMe.md
-│   	.gitignore
-|       fit-frl-choice.ipynb
-└───────data
- 	└───fits
-    └───libraries
-            Data.py
-            FeatureRL.py
-            fitting.py
-            World.py
+│   ├── data
+│   ├── fits
+│   ├── libraries
+│   │   ├── Data.py
+│   │   ├── FeatureRL.py
+│   │   ├── fitting.py
+│   │   ├── World.py
+│   └── partials/template
+├── ReadMe.md
+├── fit-frl-choice.ipynb
+└── .gitignore
+
 ```
