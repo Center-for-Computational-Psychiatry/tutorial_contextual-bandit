@@ -1,7 +1,7 @@
 
 ## MLE for contextual bandit 
 
-The code in this repository shows an example of maximum likelihood estimation for behavioral data (choice and gaze) in a contextual bandit task. 
+The code in this repository shows an example of maximum likelihood estimation (MLE) for choice data in a contextual bandit task. 
 
 ```
 ├── contextual-bandit
