@@ -12,7 +12,6 @@ The code in this repository shows an example of maximum likelihood estimation (M
 │   │   ├── FeatureRL.py
 │   │   ├── fitting.py
 │   │   ├── World.py
-│   └── partials/template
 ├── ReadMe.md
 ├── fit-frl-choice.ipynb
 └── .gitignore
