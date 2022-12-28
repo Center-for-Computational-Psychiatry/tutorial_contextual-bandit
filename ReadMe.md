@@ -16,7 +16,6 @@ Example paper with this task and analysis approach:
 │   │   ├── FeatureRL.py
 │   │   ├── fitting.py
 │   │   ├── World.py
-│   └── partials/template
 ├── ReadMe.md
 ├── fit-frl-choice.ipynb
 └── .gitignore
