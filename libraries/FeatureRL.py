@@ -13,6 +13,8 @@ import numpy as np
 from scipy.special import logsumexp
 from scipy.stats import dirichlet
 import warnings
+import pandas as pd
+import seaborn as sns
 
 # Custom dependencies
 import sys
